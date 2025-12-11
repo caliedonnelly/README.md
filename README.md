@@ -1,7 +1,8 @@
 # Calie Donnelly 🌌
 
 Senior UI/UX Designer & Frontend Engineer  
-Crafting cosmic, conversion-driving experiences. Open to senior roles in fintech + ethical AI.
+Crafting cosmic, conversion-driving experiences. 
+Open to senior roles in fintech + ethical AI.
 
 [Portfolio](https://caliedonnelly.com) | [Twitter](https://twitter.com/caliedonnelly) | [LinkedIn](https://linkedin.com/in/caliedonnelly)
 
